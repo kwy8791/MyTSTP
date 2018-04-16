@@ -1,0 +1,17 @@
+ch. 1
+
+ch. 2
+https://github.com/calthoff/tstp/tree/master/part_I/getting_started/challenges
+
+ch. 3
+https://github.com/calthoff/tstp/tree/master/part_I/introduction_to_programming/challengesttp://tinyurl.com/hapm4dx
+
+ch. 4
+https://github.com/calthoff/tstp/tree/master/part_I/functions/challenges
+
+ch. 5
+https://github.com/calthoff/tstp/tree/master/part_I/containers/challenges
+
+ch. 6
+https://github.com/calthoff/tstp/tree/master/part_I/string_manipulation/challenges
+
