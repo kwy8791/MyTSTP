@@ -18,4 +18,7 @@ https://github.com/calthoff/tstp/tree/master/part_I/string_manipulation/challeng
 ch. 7
 https://github.com/calthoff/tstp/tree/master/part_I/loops/challenges
 
+ch. 8
+https://github.com/calthoff/tstp/tree/master/part_I/modules/challenges
+
 
