@@ -21,4 +21,7 @@ https://github.com/calthoff/tstp/tree/master/part_I/loops/challenges
 ch. 8
 https://github.com/calthoff/tstp/tree/master/part_I/modules/challenges
 
+ch. 9
+https://github.com/calthoff/tstp/tree/master/part_I/files/challengesq
+
 
