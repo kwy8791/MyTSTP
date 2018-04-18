@@ -24,4 +24,7 @@ https://github.com/calthoff/tstp/tree/master/part_I/modules/challenges
 ch. 9
 https://github.com/calthoff/tstp/tree/master/part_I/files/challengesq
 
+ch. 10
+https://github.com/calthoff/tstp/tree/master/part_I/bringing_it_all_together/challenges
+
 
