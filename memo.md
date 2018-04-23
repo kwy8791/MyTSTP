@@ -218,7 +218,7 @@ class クラス名:
   - https://www.udemy.com/intro_git/
   - https://learngitbranching.js.org/
 
-- 
+- Windows Subsystem for Linux の Ubuntu ファイルをエクスプローラーから見る場合 %AppDataLocal%\Packages\CanonicalGroupLimited.UbuntuonWindows_(ランダムな文字列)\LocalState\rootfs\home\(username) がホームディレクトリになる。ただしWindows 側からファイル操作を行うと、不具合が起きることが多いので触らないようにする
 
 - 
 
