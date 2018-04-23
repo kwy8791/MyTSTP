@@ -4,7 +4,7 @@ ch. 2
 https://github.com/calthoff/tstp/tree/master/part_I/getting_started/challenges
 
 ch. 3
-https://github.com/calthoff/tstp/tree/master/part_I/introduction_to_programming/challengesttp://tinyurl.com/hapm4dx
+https://github.com/calthoff/tstp/tree/master/part_I/introduction_to_programming/challenges
 
 ch. 4
 https://github.com/calthoff/tstp/tree/master/part_I/functions/challenges
@@ -29,5 +29,13 @@ https://github.com/calthoff/tstp/tree/master/part_I/bringing_it_all_together/cha
 
 ch. 12
 https://github.com/calthoff/tstp/tree/master/part_II/programming_paradigms/challenges
+
+ch. 13
+https://github.com/calthoff/tstp/tree/master/part_II/the_four_pillars_of_oop/challenges
+
+ch. 14
+https://github.com/calthoff/tstp/tree/master/part_II/more_object_oriented_programming/challenge
+
+
 
 
