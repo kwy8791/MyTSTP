@@ -39,4 +39,7 @@ https://github.com/calthoff/tstp/tree/master/part_II/more_object_oriented_progra
 ch. 16
 https://github.com/calthoff/tstp/tree/master/part_III/bash/challenges
 
+ch. 17
+https://github.com/calthoff/tstp/tree/master/part_III/regular_expressions/challenges
+
 

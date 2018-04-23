@@ -197,7 +197,8 @@ class クラス名:
 - Windows での Bash の使い方
   - http://www.atmarkit.co.jp/ait/articles/1608/08/news039.html
 
-- 
+- 非貪欲な正規表現: できるだけ少ない文字列に一致する。Linux の grep には存在しないが、 Python では "*?" という書き方で実行できる。詳しくはP212
+  - p213_mad_libs.py
 
 - 
 
