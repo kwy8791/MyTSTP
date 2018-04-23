@@ -34,7 +34,8 @@ def simulate_line(till_show, max_time):
         person = pq.dequeue()
         print(person)
         tix_sold.append(person)
-        return tix_sold
 
-sold = simulate_line(5, 10000)
+    return tix_sold
+
+sold = simulate_line(10, 1)
 print(sold)

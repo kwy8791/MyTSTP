@@ -228,7 +228,39 @@ class クラス名:
 - これも後で読んでおく
   - p255_ticket_line.py
 
-- 
+- FizzBuzz, 線形探索、回文、アナグラム
+  - p259_fizzbuzz.py
+  - p260_linear_search.py
+  - p261_palindrome.py
+  - p261_anagram.py
+
+- 再帰
+  - p264_recursive.py
+  - http://wa3.i-3-i.info/word14899.html
+  - http://www.geocities.jp/m_hiroi/light/pyalgo01.html
+
+- 自習用ドリルサイト （どちらも登録必要）
+  - https://leetcode.com
+  - https://pyq.jp （三日間無料のキャンペーンコードが本書に記載）
+
+- 解決したい問題を前にして最初に考えるべきは「どうやってこれを解こうか」ではなく、「ほかの誰かがすでにこの問題を解決しているだろうか？　その解決方法は自分も使えるだろうか？」である
+
+- 直交性: a は b に影響するべきではない
+
+- データは一箇所で定義する
+
+- 1つの関数には1つのことだけをさせる
+  - 「ソフトウェアの複雑さは、1つのことに2つのことをさせてしまうことから生じる」
+
+- PEP8 を読んで Python の慣例を学ぶ
+  - http://pep8-ja.readthedocs.io/ja/latest
+  - https://www.python.org/dev/peps/pep-0008/
+
+- logging モジュールを有効に使う
+  - https://docs.python.org/ja/3/howto/logging.html
+
+- unittest モジュールを使う
+  - https://docs.python.org/ja/3/library/unittest.html
 
 - 
 
@@ -237,7 +269,3 @@ class クラス名:
 - 
 
 - 
-
-- 
-
-
