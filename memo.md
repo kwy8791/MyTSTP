@@ -200,11 +200,12 @@ class クラス名:
 - 非貪欲な正規表現: できるだけ少ない文字列に一致する。Linux の grep には存在しないが、 Python では "*?" という書き方で実行できる。詳しくはP212
   - p213_mad_libs.py
 
-- 
+- pipインストール方法
+  - https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
 
-- 
+- pip 実行時は sudo する（ユーザーごとのインストールではない場合）
 
-- 
+- パッケージ一覧表示は `pip freeze` アンインストールは `pip uninstall パッケージ名` 
 
 - 
 
