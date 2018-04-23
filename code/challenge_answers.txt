@@ -27,4 +27,7 @@ https://github.com/calthoff/tstp/tree/master/part_I/files/challengesq
 ch. 10
 https://github.com/calthoff/tstp/tree/master/part_I/bringing_it_all_together/challenges
 
+ch. 12
+https://github.com/calthoff/tstp/tree/master/part_II/programming_paradigms/challenges
+
 
