@@ -262,10 +262,7 @@ class クラス名:
 - unittest モジュールを使う
   - https://docs.python.org/ja/3/library/unittest.html
 
-- 
+- 仕事にはどんな種類があるのかを知る
+  - https://www.python.jp/category/jobboard.html
+  - https://www.python.org/jobs/
 
-- 
-
-- 
-
-- 
