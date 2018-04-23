@@ -48,7 +48,8 @@ https://github.com/calthoff/tstp/blob/master/part_III/package_managers/challenge
 ch. 20
 https://github.com/calthoff/tstp/blob/master/part_III/bringing_it_all_together/challenge/challenge_1.py
 
-
+ch. 21
+https://github.com/calthoff/tstp/tree/master/part_IV/data_structures/challenges
 
 
 

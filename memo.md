@@ -220,9 +220,13 @@ class クラス名:
 
 - Windows Subsystem for Linux の Ubuntu ファイルをエクスプローラーから見る場合 %AppDataLocal%\Packages\CanonicalGroupLimited.UbuntuonWindows_(ランダムな文字列)\LocalState\rootfs\home\(username) がホームディレクトリになる。ただしWindows 側からファイル操作を行うと、不具合が起きることが多いので触らないようにする
 
-- 
+- スタックとキューのサンプルは以下ファイル。読んでおこう。なお、キューは Python の組み込みクラス collections.deque で実装されている。
+  - p249_stack.py
+  - p251_stack2.py
+  - p253_queue.py
 
-- 
+- これも後で読んでおく
+  - p255_ticket_line.py
 
 - 
 
