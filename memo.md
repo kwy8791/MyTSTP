@@ -207,6 +207,33 @@ class クラス名:
 
 - パッケージ一覧表示は `pip freeze` アンインストールは `pip uninstall パッケージ名` 
 
+- とりあえず `git clone リポジトリURL`, `git remote -v`, `git status`, `git add ファイルパス`, `git reset ファイルパス` （ add の取り消し）, `git commit -m "コミットメッセージ"`, `git push origin master` を覚える
+
+- チーム開発で、中央リポジトリのほうが新しくなった場合は `git pull origin master`
+
+- 以前のバージョンに戻すには `git log` で目的のバージョンのハッシュを探し、 `git checkout ハッシュ` する
+
+- Git の詳細は
+  - http://theselftaughtprogrammer.io/git
+  - https://www.udemy.com/intro_git/
+  - https://learngitbranching.js.org/
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
 - 
 
 
