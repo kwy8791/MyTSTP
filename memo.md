@@ -194,7 +194,8 @@ class クラス名:
 
 - p185_war.py は後で読み直すこと
 
-- 
+- Windows での Bash の使い方
+  - http://www.atmarkit.co.jp/ait/articles/1608/08/news039.html
 
 - 
 
